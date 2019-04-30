@@ -11,7 +11,7 @@ Here I add some content:
 ## first section
 In the first section we just procastinate, then go to the second section.  
 ## second section
-In the second section th obscenities start to prolifereate ...
+In the second section the obscenities start to prolifereate ...
 ## usage
 ## output 
 ## autors
