@@ -1,7 +1,7 @@
 # firstproject
 My personal playground:
 
-WARNING: Adult only
+WARNING: Adult only (18 years or older, but less than 72)
 
 Obscene content follows
 
